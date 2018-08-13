@@ -1,0 +1,11 @@
+Package: iashdfs
+Title: Simple stream based Hadoop HDFS tools
+Version: 0.5.0
+Authors@R: person("Tim", "Cederquist", email = "tcederquist@intanalytic.com", role = c("aut", "cre"))
+Description: Write any output from standard commands into HDFS or read HDFS back into the source for supplied utilities.
+Depends: R (>= 3.0.0)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+
